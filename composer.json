@@ -1,0 +1,23 @@
+{
+    "name": "wggai/laravel-util",
+    "description": "广州市五宫格信息科技有限公司 内部laravel开发工具包，优雅、健壮，可扩展，遵循 PSR 开发规范。",
+    "keywords": ["laravel"],
+    "homepage": "https://github.com/wggai/laravel-util",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wggai",
+            "email": "374775211@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "alibabacloud/client": "^1.5"
+    },
+    "require-dev": {
+        
+    },
+    "autoload": {
+        "psr-4": { "wggai\\laravelUtil\\": "./src" }
+    }
+}

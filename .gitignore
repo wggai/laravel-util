@@ -1,0 +1,7 @@
+# Files
+composer.lock
+phpunit.xml
+
+# Folders
+.idea
+vendor
